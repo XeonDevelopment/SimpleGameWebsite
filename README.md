@@ -1,11 +1,14 @@
 # SimpleGameWebsite
 My first ever attempt at making a website for University.
 
-#Features
+# Features
 Register (Encrypted)
 Login (Encrypted)
 Leaderboard
 Custom CSS
+Sanitsation
+Dynamic Navigation Bar
+Config
 
 # Read
 
